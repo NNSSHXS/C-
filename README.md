@@ -1,2 +1,2 @@
 # C++
-Rational 
+class Rational 
